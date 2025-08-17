@@ -23,6 +23,9 @@ O jogo possui:
 
 ---
 
+pip install pgzero
+
+
 ## 🛠️ Instalação e Execução
 1. Clone este repositório:
 ```bash
