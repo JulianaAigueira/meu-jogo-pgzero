@@ -1,7 +1,5 @@
 # Warrior Princess - Jogo em Pygame Zero
 
-![Banner do Jogo](caminho/para/imagem.png) <!-- opcional -->
-
 ## 🎮 Descrição
 **Warrior Princess** é um jogo criado em Python usando a biblioteca **Pygame Zero**.  
 O jogador controla uma princesa que deve atravessar a floresta, evitar inimigos e chegar ao castelo (home) para vencer.
