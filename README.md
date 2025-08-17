@@ -31,5 +31,5 @@ pip install pgzero
 ```bash
 git clone https://github.com/JulianaAigueira/meu-jogo-pgzero.git
 
-pgzrun warrior_princess.py
+
 
