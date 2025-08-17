@@ -31,3 +31,17 @@ pip install pgzero
 ```bash
 git clone https://github.com/JulianaAigueira/meu-jogo-pgzero.git
 
+pgzrun warrior_princess.py
+
+
+pgzrun warrior_princess.py
+
+
+meu-jogo-pgzero/
+│
+├─ images/       # Sprites da princesa, inimigos e cenário
+├─ sounds/       # Efeitos sonoros
+├─ music/        # Música de fundo e batalha
+├─ warrior_princess.py  # Arquivo principal do jogo
+└─ README.md
+
